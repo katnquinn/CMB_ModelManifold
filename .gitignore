@@ -1,0 +1,6 @@
+#ignore CAMB source code
+camb/
+MC_Planck/
+Universe/
+CAMB
+*.ini
